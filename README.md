@@ -6,7 +6,11 @@ Below are some suggested activities trainers can conduct with their cohorts. The
 
 ## Interview Prep Activities
 
+
 ### Hot Seat
+
+<details>
+<summary></summary>
 
 Activity duration: **2 hours for a cohort of 15**
 
@@ -14,13 +18,23 @@ This activity works best for smaller cohorts, but can be done with any size coho
 
 The benefit of this activity is that everyone in the cohort has the ability to provide feedback, as well as hear examples of great responses and responses that need improvement. Associates who struggle under pressure or in front of a group may not do as well with this activity.
 
+</details>
+
 ### Mock Interviews 
+
+<details>
+<summary></summary>
 
 Activity duration: **15 hours for a cohort of 15**
 
 Mock interviews also give associates exposure to interview questions, practice answering them, and an opportunity for valuable feedback, but in a one on one setting. See [this document](https://revature0-my.sharepoint.com/:w:/r/personal/charles_jester_revature_com/Documents/MockInterviewOutline.docx?d=w5c91cd12f10a41659eb0f67baab08479&csf=1&web=1&e=OZlLGy) for suggestions on how to conduct and evaluate mock interviews.
 
+</details>
+
 ### Associate Paired Interviews 
+
+<details>
+<summary></summary>
 
 Activity duration: **2 hour for a cohort of 15 + 30 mins - 1 hr of prep time**
 
@@ -32,13 +46,17 @@ The benefit of this activity is that associates feel less pressure to answer que
 
 The drawback is that they don't get as much, if any, trainer feedback on their interview answers. This could be a good activity to do prior to other trainer led activities to get associates more comfortable in a low pressure situation.
 
+</details>
+
 ### STAR Method Exercise
+
+<details>
+<summary></summary>
 
 Activity duration: **Variable (can be worked into other activities) but should include at least 1 hour of associate prep time**
 
 The STAR method is a method for answering behavioral interview questions that provides a structural guideline to anecdotal answers. It begins by explaining the situation you were in, and the task at hand. You follow by discussing the action you took and the result of that action. It allows you to back up your interview answers with concrete evidence from your experiences.
 
-#### Activity Details
 Start by providing [this overview](https://revature0-my.sharepoint.com/:b:/r/personal/emily_baillie_revature_com/Documents/Microsoft%20Teams%20Chat%20Files/STAR_Method_Interviews.pdf?csf=1&web=1&e=aO0s1i) of the STAR method to your team. Give them at least a day to read over it and familiarize themselves with the method and tell them to be ready to use it when answering interview questions in your desired format (full cohort, small groups, individually). 
 
 For the activity itself, ask the associates open ended questions that are good candidates for the star method. Provide feedback to the associates. A template similar to the one below can be used to record their responses. Some questions you can ask include:
@@ -58,10 +76,18 @@ For the activity itself, ask the associates open ended questions that are good c
 | Action | [&nbsp;  ] | [X] | [&nbsp;  ] | | 
 | Result | [&nbsp;  ] | [&nbsp;  ] | [X] | |
 
+</details>
+
 ### Whiteboarding Exercises
+
+
+<details>
+<summary></summary>
 
 Activity duration: **20 minutes per associate (15 for exercise, 5 minute for feedback)**
 
 See [this repo](https://github.com/carolynrehm/whiteboarding) for some helpful whiteboarding exercises. Questions can be solved in another language if it's relevant to the training tack, but example solutions are provided in Java. Feel free to suggest alternative solutions, or solutions in other languages.
+
+</details>
 
 ### Project Code Reviews
